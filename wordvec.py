@@ -9,6 +9,9 @@ import argparse
 import logging
 from pathlib import Path
 import numpy as np
+import random
+
+random.seed(10) #do not change the random seed
 
 log = logging.getLogger(Path(__file__).stem)  # The only okay global variable.
 # Logging is in general a good practice to check the behavior of your code
