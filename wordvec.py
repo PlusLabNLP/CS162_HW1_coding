@@ -1,6 +1,8 @@
-# CS188 NLP Winter 2022 HW1
+# CS162 NLP Winter 2023 HW1
+# All codes are written by myself.
 # Name: ____________
 # Email: _________@ucla.edu
+
 
 from __future__ import annotations
 import argparse
