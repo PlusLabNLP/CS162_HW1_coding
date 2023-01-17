@@ -1,4 +1,4 @@
-# Starter Code for CS188 HW1
+# Starter Code for CS162 HW1
 
 Welcome to the coding part for the HW1! 
 
